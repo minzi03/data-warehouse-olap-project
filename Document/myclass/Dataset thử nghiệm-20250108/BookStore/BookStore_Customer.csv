@@ -1,0 +1,15 @@
+﻿customer_numb;customer_first_name;customer_last_name;customer_street;customer_city;customer_state;customer_zip;customer_phone;customer_email
+1;Jane;Jones;125 W. 88th Blvd.;Anytown;NJ;10110;552-555-1234;jane_jones@anywhere.net
+2;Tom;Smith;4592 Maple Lane;Some City;NY;12345;555-555-4321;tom_smith@this.net
+3;Mary;Johnson;98 Elm St.;Little Town;MN;23456;551-555-4567;mary_johnson@somewhere.net
+4;John;Smith;867 Apple Tree Road;Anytown;NJ;10111;552-555-9876;john_smith@somewhere.net
+5;Emily;Jones;7921 Fir Road;Anytown;NY;12344;555-555-7654;emily_jones@somewhere.net
+6;Peter;Johnson;709 Hemlock St.;Some City;NY;12345;555-555-3456;peter_johnson@anywhere.net
+7;Edna;Hayes;158 Oak Road;Some City;MN;23458;551-555-1234;edna_hayes@this.net
+8;Franklin;Hayes;1990 Pine St.;Little Town;MN;23456;551-555-3939;franklin_hayes@this.net
+9;Mary;Collins;RR1 Box 297;Rural Area;CO;45678;553-555-1234;mary_collins@rural.net
+10;Peter;Collins;170 Dogwood Lane;Little Town;MN;23456;551-555-8484;peter_collins@anywhere.net
+11;Anne;Smith;RR 2 Box 9;Rural Area;CO;45678;553-555-9090;anne_smith@rural.net
+12;Peter;Smith;21 Elm St.;Anytown;NJ;10111;552-555-3459;peter_smith@somewhere.net
+13;Jerry;Brown;9745 Main Street;Anytown;NJ;10111;552-555-9876;jerry_brown@somewhere.net
+14;Helen;Brown;2588 North Road;Some City;NY;12555;555-552-3939;helen_brown@somewhere.net
